@@ -36,7 +36,7 @@ GitHub | RuStore
 * UI/UX: Material Design, Custom Views, Animations
 * Инструменты: Firebase, Git, Gradle, CI/CD
 
-- 🛠️ **Технологии**
+- 🛠️ ** Технологии **
 * [![Kotlin](https://badgen.net/badge/Kotlin/7F52FF?icon=kotlin&labelColor=white&iconColor=white&radius=4&border=2%2F1A1A1A)](https://kotlinlang.org/)
 * [![Android](https://badgen.net/badge/Android/3DDC84?icon=android&labelColor=white&iconColor=white&radius=4&border=2%2F1A1A1A)](https://www.android.com)
 * [![Firebase](https://badgen.net/badge/Firebase/039BE5?icon=firebase&labelColor=white&iconColor=white&radius=4&border=2%2F1A1A1A)](https://firebase.google.com)
