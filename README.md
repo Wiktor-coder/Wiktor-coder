@@ -14,6 +14,28 @@ Android-разработчик, создаю полезные и качеств�
   [DebitCredit](https://github.com/Wiktor-coder/DebitCredit) — приложением для учёта доходов и расходов на Android.  
   Разрабатываю новые функции: экспорт данных, виджеты.
 
+  🚀 Мои проекты
+📱 [DebitCredit](https://github.com/Wiktor-coder/DebitCredit) — Приложение для учёта доходов и расходов
+GitHub | RuStore
+Стек: Kotlin, Clean Architecture, MVVM, Room, Dagger Hilt, Custom Views
+Фичи: статистика с графиками, фильтрация, поиск, локализация, валюты
+
+🎵 ![MusicService](https://github.com/Wiktor-coder/MusicService) — Плеер для воспроизведения одного альбома
+Стек: OkHttp, Gson, Coroutines, MediaPlayer, Service
+Особенность: для одного сетевого запроса использовал OkHttp вместо Retrofit, чтобы избежать лишней абстракции
+Фичи: загрузка альбома, управление плеером, фоновая игра
+
+🎨 ![Animations](https://github.com/Wiktor-coder/Animations) — Изучение анимаций в Android
+Стек: Android Animations API, Property Animations, View Animations
+Эксперименты с анимациями для улучшения UX
+
+🛠️ Ключевые навыки
+* Языки: Kotlin, Java
+* Архитектура: Clean Architecture, MVVM, MVI
+* Библиотеки: Room, Dagger Hilt, Retrofit, OkHttp, Gson, Coroutines
+* UI/UX: Material Design, Custom Views, Animations
+* Инструменты: Firebase, Git, Gradle, CI/CD
+
 - 🛠️ **Технологии**
 [![Kotlin](https://badgen.net/badge/Kotlin/7F52FF?icon=kotlin&labelColor=white&iconColor=white&radius=4&border=2%2F1A1A1A)](https://kotlinlang.org/)
 [![Android](https://badgen.net/badge/Android/3DDC84?icon=android&labelColor=white&iconColor=white&radius=4&border=2%2F1A1A1A)](https://www.android.com)
@@ -38,8 +60,8 @@ Android-разработчик, создаю полезные и качеств�
   кастомных View, работе с API и Firebase. Могу поделиться опытом!
 
 - 📫 **Как со мной связаться**  
-  Email: apostal333@gmail.com  
-  GitHub: [github.com/Wiktor-coder](https://github.com/Wiktor-coder)
+  📧 Email: apostal333@gmail.com  
+  🐙 GitHub: [github.com/Wiktor-coder](https://github.com/Wiktor-coder)
   VK: [https://vk.com/37handmade37](https://vk.com/37handmade37)
 
 - 😄 **Местоимения**  
