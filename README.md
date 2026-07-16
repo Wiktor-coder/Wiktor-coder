@@ -14,18 +14,18 @@ Android-разработчик, создаю полезные и качеств�
   [DebitCredit](https://github.com/Wiktor-coder/DebitCredit) — приложением для учёта доходов и расходов на Android.  
   Разрабатываю новые функции: экспорт данных, виджеты.
 
-  🚀 Мои проекты
-📱 [DebitCredit](https://github.com/Wiktor-coder/DebitCredit) — Приложение для учёта доходов и расходов
+- 🚀 **Мои проекты**
+* 📱 [DebitCredit](https://github.com/Wiktor-coder/DebitCredit) — Приложение для учёта доходов и расходов
 GitHub | RuStore
 Стек: Kotlin, Clean Architecture, MVVM, Room, Dagger Hilt, Custom Views
 Фичи: статистика с графиками, фильтрация, поиск, локализация, валюты
 
-🎵 ![MusicService](https://github.com/Wiktor-coder/MusicService) — Плеер для воспроизведения одного альбома
+* 🎵 ![MusicService](https://github.com/Wiktor-coder/MusicService) — Плеер для воспроизведения одного альбома
 Стек: OkHttp, Gson, Coroutines, MediaPlayer, Service
 Особенность: для одного сетевого запроса использовал OkHttp вместо Retrofit, чтобы избежать лишней абстракции
 Фичи: загрузка альбома, управление плеером, фоновая игра
 
-🎨 ![Animations](https://github.com/Wiktor-coder/Animations) — Изучение анимаций в Android
+* 🎨 ![Animations](https://github.com/Wiktor-coder/Animations) — Изучение анимаций в Android
 Стек: Android Animations API, Property Animations, View Animations
 Эксперименты с анимациями для улучшения UX
 
