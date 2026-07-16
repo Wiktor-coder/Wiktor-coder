@@ -29,7 +29,7 @@ GitHub | RuStore
 Стек: Android Animations API, Property Animations, View Animations
 Эксперименты с анимациями для улучшения UX
 
-🛠️ Ключевые навыки
+🛠️ **Ключевые навыки**
 * Языки: Kotlin, Java
 * Архитектура: Clean Architecture, MVVM, MVI
 * Библиотеки: Room, Dagger Hilt, Retrofit, OkHttp, Gson, Coroutines
@@ -37,11 +37,11 @@ GitHub | RuStore
 * Инструменты: Firebase, Git, Gradle, CI/CD
 
 - 🛠️ **Технологии**
-[![Kotlin](https://badgen.net/badge/Kotlin/7F52FF?icon=kotlin&labelColor=white&iconColor=white&radius=4&border=2%2F1A1A1A)](https://kotlinlang.org/)
-[![Android](https://badgen.net/badge/Android/3DDC84?icon=android&labelColor=white&iconColor=white&radius=4&border=2%2F1A1A1A)](https://www.android.com)
-[![Firebase](https://badgen.net/badge/Firebase/039BE5?icon=firebase&labelColor=white&iconColor=white&radius=4&border=2%2F1A1A1A)](https://firebase.google.com)
-[![Room](https://badgen.net/badge/Room/009688?icon=sqlite&labelColor=white&iconColor=white&radius=4&border=2%2F1A1A1A)](https://developer.android.com/jetpack/room) (используется иконка SQLite как наиболее близкая)
-[![Dagger Hilt](https://badgen.net/badge/Dagger%20Hilt/000000?icon=dagger&labelColor=white&iconColor=white&radius=4&border=2%2F1A1A1A)](https://dagger.dev/hilt/)
+* [![Kotlin](https://badgen.net/badge/Kotlin/7F52FF?icon=kotlin&labelColor=white&iconColor=white&radius=4&border=2%2F1A1A1A)](https://kotlinlang.org/)
+* [![Android](https://badgen.net/badge/Android/3DDC84?icon=android&labelColor=white&iconColor=white&radius=4&border=2%2F1A1A1A)](https://www.android.com)
+* [![Firebase](https://badgen.net/badge/Firebase/039BE5?icon=firebase&labelColor=white&iconColor=white&radius=4&border=2%2F1A1A1A)](https://firebase.google.com)
+* [![Room](https://badgen.net/badge/Room/009688?icon=sqlite&labelColor=white&iconColor=white&radius=4&border=2%2F1A1A1A)](https://developer.android.com/jetpack/room) (используется иконка SQLite как наиболее близкая)
+* [![Dagger Hilt](https://badgen.net/badge/Dagger%20Hilt/000000?icon=dagger&labelColor=white&iconColor=white&radius=4&border=2%2F1A1A1A)](https://dagger.dev/hilt/)
 
 - 🌱 **Сейчас изучаю**  
   Jetpack Compose, многомодульную архитектуру, Kotlin Multiplatform,  
@@ -63,9 +63,6 @@ GitHub | RuStore
   📧 Email: apostal333@gmail.com  
   🐙 GitHub: [github.com/Wiktor-coder](https://github.com/Wiktor-coder)
   VK: [https://vk.com/37handmade37](https://vk.com/37handmade37)
-
-- 😄 **Местоимения**  
-  Он / His
 
 - ⚡ **Интересный факт**  
   DebitCredit полностью бесплатен и без рекламы — я разрабатываю его в свободное время,  
